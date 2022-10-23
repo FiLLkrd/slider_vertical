@@ -1,5 +1,7 @@
 # slider_vertical
 
+ссылка: https://fillkrd.github.io/slider_vertical/
+
 ## Описание
 В данной работе реализован слайдер карточек фото и заголовков
 
